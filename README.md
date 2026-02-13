@@ -99,7 +99,7 @@ So, if you’re someone who shares a love for tech, innovation, and a dash of cr
 
 ### :trophy: GitHub Trophy :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prtknk&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=prtknk&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
