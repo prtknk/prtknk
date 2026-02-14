@@ -91,8 +91,6 @@ So, if you’re someone who shares a love for tech, innovation, and a dash of cr
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=prtknk&theme=highcontrast&hide_border=true&ring=DD2727)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prtknk&layout=donut&theme=highcontrast&hide_border=true&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Snake animation](https://github.com/ksharma67/ksharma67/blob/output/github-contribution-grid-snake.svg)
 
 ---
