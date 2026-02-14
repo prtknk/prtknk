@@ -87,7 +87,7 @@ So, if you’re someone who shares a love for tech, innovation, and a dash of cr
 </div>
 
 ---
-
+<div align="center">
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=prtknk&theme=highcontrast&hide_border=true&ring=DD2727)](https://git.io/streak-stats)
 
@@ -102,3 +102,4 @@ So, if you’re someone who shares a love for tech, innovation, and a dash of cr
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</div>
