@@ -95,12 +95,6 @@ So, if you’re someone who shares a love for tech, innovation, and a dash of cr
 
 ---
 
-### :trophy: GitHub Trophy :
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=prtknk&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### Contribution Stats
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=prtknk)](https://github.com/LordDashMe/github-contribution-stats/)
