@@ -87,15 +87,17 @@ So, if you’re someone who shares a love for tech, innovation, and a dash of cr
 </div>
 
 ---
+<!--  
+
 <div align="center">
-  
+
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=prtknk&theme=highcontrast&hide_border=true&ring=DD2727)](https://git.io/streak-stats)
 
 ![Snake animation](https://github.com/ksharma67/ksharma67/blob/output/github-contribution-grid-snake.svg)
 
 ---
-
+-->
 ### Contribution Stats
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=prtknk)](https://github.com/LordDashMe/github-contribution-stats/)
